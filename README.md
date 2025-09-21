@@ -1,4 +1,4 @@
-📊 This repository contains a Power BI report created as part of Assignment 1. The report demonstrates data visualization and analysis using interactive dashboards, including charts, filters, and insights for better understanding of the dataset.
+📊 This repository contains a Power BI report created as part of all  6 Assignments . The report demonstrates data visualization and analysis using interactive dashboards, including charts, filters, and insights for better understanding of the dataset.
 
 Key highlights:
 
